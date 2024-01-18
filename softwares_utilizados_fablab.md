@@ -1,4 +1,4 @@
-# Lista de Softwares utilizados em FabLab
+# Lista de Softwares utilizados em um FabLab
 
 Abaixo estão listados os principais softwares (*open source e proprietários*) utilizados em nosso dia a dia e para ministrar cursos:
 
